@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    background-color: red;
+    height: 20vh;
+    width: 100vw;
+}
+
+main{
+    background-color: royalblue;
+    height: 65vh;
+    width: 100vw;
+}
+
+footer {
+    background-color: rgb(163, 135, 135);
+    height: 15vh;
+    width: 100vw;
+}
